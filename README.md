@@ -1,17 +1,17 @@
+ <div align="center">
 
-<div align="center">
-
-# ¡Hola, soy Balaam Santiago! 👋
+# Hola, soy Balaam Santiago 👋
 
 ### Full Stack Developer | .NET · Angular · SQL Server
 
-Desarrollador de software con 5 años de experiencia creando, manteniendo y optimizando aplicaciones web empresariales.
+**Desarrollo de software · Arquitectura · Integraciones · Cloud**
 
-Me interesa construir soluciones seguras, eficientes y fáciles de mantener.
+Desarrollador Full Stack con 5 años de experiencia construyendo, manteniendo y evolucionando aplicaciones empresariales.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaam-santiago-143a79221/)
+Me especializo en comprender problemas técnicos, diseñar soluciones compatibles con la arquitectura existente y llevar las implementaciones desde el análisis hasta su puesta en producción.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaam-santiago-143a79221/)
 [![GitHub](https://img.shields.io/badge/GitHub-Balaam--cpu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balaam-cpu)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525617240341)
 
 </div>
 
@@ -19,65 +19,92 @@ Me interesa construir soluciones seguras, eficientes y fáciles de mantener.
 
 ## 👨‍💻 Sobre mí
 
-Soy un desarrollador Full Stack al que le gusta comprender cómo funciona una aplicación de principio a fin: desde la interfaz de usuario y las reglas de negocio hasta las APIs, la persistencia y los despliegues.
+Soy Ingeniero de Software con experiencia en el desarrollo de soluciones Full Stack para entornos empresariales, particularmente en aplicaciones de comercio electrónico, integraciones de servicios y modernización de sistemas existentes.
 
-Mi experiencia incluye desarrollo de aplicaciones empresariales, integración de servicios, mantenimiento de sistemas existentes, análisis de incidencias y participación en procesos de liberación.
+Mi trabajo no se limita a implementar funcionalidades. También participo en el análisis de requerimientos, investigación de alternativas técnicas, identificación de dependencias, resolución de incidencias y coordinación con equipos de arquitectura, infraestructura y negocio.
 
-Me gusta investigar los problemas, entender sus causas y encontrar soluciones que respeten la arquitectura del proyecto.
+He trabajado tanto con arquitecturas previamente establecidas como en la mejora y refactorización de aplicaciones existentes, buscando siempre soluciones que sean mantenibles, comprensibles y acordes con las necesidades del proyecto.
 
-## 🛠️ Stack tecnológico
+## 💼 Experiencia que aporto
 
-### Backend
+### 🏗️ Desarrollo y arquitectura de aplicaciones
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square)
+- Desarrollo y mantenimiento de aplicaciones empresariales utilizando **Angular, .NET y SQL Server**.
+- Implementación de funcionalidades dentro de soluciones basadas en **Clean Architecture**, respetando la separación de responsabilidades entre capas.
+- Desarrollo de APIs REST, integración de servicios externos y construcción de componentes frontend reutilizables.
+- Refactorización de aplicaciones existentes para reducir duplicidad de código y mejorar su organización y mantenimiento.
 
-### Frontend
+### 🔍 Análisis y resolución de problemas
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-2563EB?style=flat-square)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+- Investigación y diagnóstico de incidencias en ambientes de desarrollo, QA y producción.
+- Elaboración de **spikes técnicos** para evaluar alternativas de implementación, identificar dependencias y proporcionar información técnica para la definición de historias de usuario.
+- Análisis de requerimientos y propuesta de soluciones considerando las restricciones de los sistemas existentes.
+- Colaboración con equipos multidisciplinarios para resolver problemas que involucran distintas aplicaciones o servicios.
 
-### Bases de datos
+### 🔐 Seguridad, integraciones y operación
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+- Integración de servicios empresariales, incluyendo mecanismos de comunicación y envío de documentos mediante SMTP.
+- Implementación de mejoras en la gestión de secretos y configuración sensible utilizando **Azure Key Vault**.
+- Diagnóstico de aplicaciones desplegadas en **Azure Kubernetes Service (AKS)** mediante análisis de logs.
+- Atención de vulnerabilidades y observaciones de calidad de código identificadas mediante herramientas como **SonarQube**.
 
-### Cloud, DevOps y herramientas
+### 🚀 Entrega y colaboración técnica
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
-![AKS](https://img.shields.io/badge/Azure_Kubernetes_Service-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=flat-square)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+- Participación en procesos **CI/CD**, seguimiento de pipelines en Jenkins y despliegues en Azure.
+- Presentación de propuestas de implementación ante equipos de arquitectura, responsables técnicos y áreas de negocio.
+- Coordinación de dependencias técnicas, pruebas y liberaciones con equipos internos y externos.
+- Seguimiento de implementaciones hasta su liberación y estabilización en ambientes productivos.
 
 ---
 
-## 🧩 En qué pongo atención
+## 🛠️ Tecnologías y herramientas
 
-- **Arquitectura:** separación de responsabilidades, Clean Architecture y organización del código.
-- **Backend:** reglas de negocio, validaciones, autorización e integridad de datos.
-- **Frontend:** componentes reutilizables, gestión de estado y rendimiento.
-- **Persistencia:** consultas eficientes, consistencia de datos y manejo de concurrencia.
-- **Operación:** diagnóstico de incidencias, seguridad y despliegues.
+| Área | Tecnologías |
+|---|---|
+| **Backend** | C#, .NET, ASP.NET Core, ASP.NET MVC, Entity Framework Core, ADO.NET, APIs REST |
+| **Frontend** | Angular, TypeScript, JavaScript, RxJS, NgRx, PrimeNG, Angular Material, Bootstrap, jQuery, AJAX |
+| **Bases de datos** | SQL Server, T-SQL, Stored Procedures |
+| **Cloud** | Microsoft Azure, Azure Key Vault, AKS |
+| **DevOps y calidad** | Git, Jenkins, Azure Pipelines, CI/CD, SonarQube |
+| **Herramientas** | Visual Studio, VS Code, Postman, Jira, SQL Server Management Studio |
 
-## 🚀 Mi forma de trabajar
+---
 
-Me gusta involucrarme más allá de la implementación:
+## 🧠 Cómo abordo un problema técnico
 
-- Analizar requerimientos y problemas técnicos.
-- Investigar alternativas mediante spikes técnicos.
-- Identificar dependencias y colaborar con otros equipos.
-- Proponer soluciones compatibles con la arquitectura existente.
-- Participar en pruebas, liberaciones y seguimiento productivo.
+No siempre se trata de escribir más código. Para mí, una buena implementación comienza por comprender el problema y el contexto en el que debe resolverse.
+
+**01. Entender el problema**
+
+Analizar el requerimiento, identificar el comportamiento esperado y revisar las restricciones del sistema.
+
+**02. Investigar y evaluar**
+
+Explorar la arquitectura existente, revisar las dependencias y comparar alternativas antes de implementar.
+
+**03. Diseñar la solución**
+
+Definir dónde corresponde cada responsabilidad, qué componentes deben modificarse y cómo reducir el impacto sobre otras funcionalidades.
+
+**04. Implementar y validar**
+
+Desarrollar la solución, verificar su comportamiento y atender posibles errores de integración.
+
+**05. Entregar y dar seguimiento**
+
+Colaborar con los equipos involucrados durante las pruebas, liberación y estabilización de la implementación.
+
+---
+
+## 🎯 Mis principales intereses técnicos
+
+- Arquitectura de software y separación de responsabilidades.
+- Desarrollo de aplicaciones Full Stack mantenibles.
+- Seguridad y validación de aplicaciones web.
+- Optimización de consultas, APIs y rendimiento.
+- Gestión de estado y arquitectura frontend.
+- Integración y modernización de sistemas empresariales.
+- Mejora continua y reducción de deuda técnica.
 
 ---
 
@@ -85,10 +112,9 @@ Me gusta involucrarme más allá de la implementación:
 
 ### 🤝 Conectemos
 
-¿Quieres conversar sobre desarrollo de software, arquitectura o proyectos?
+Me interesa compartir conocimientos, explorar soluciones técnicas y colaborar en proyectos donde el software resuelva problemas reales.
 
-[LinkedIn](https://www.linkedin.com/in/balaam-santiago-143a79221/) ·
-[GitHub](https://github.com/Balaam-cpu) ·
-[WhatsApp](https://wa.me/525617240341)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaam_Santiago-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaam-santiago-143a79221/)
+[![GitHub](https://img.shields.io/badge/GitHub-Balaam--cpu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Balaam-cpu)
 
-</div>
+</div> 
