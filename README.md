@@ -1,4 +1,7 @@
- <div align="center">
+
+<div align="center">
+
+<img width="100%" alt="Balaam Santiago - Full Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:172B45,100:365575&height=190&section=header&text=Balaam%20Santiago&fontSize=40&fontColor=F1F5F9&fontAlignY=37&desc=Full%20Stack%20Developer&descSize=17&descAlignY=59&animation=fadeIn" />
 
 # Hola, soy Balaam Santiago 👋
 
@@ -10,8 +13,8 @@ Desarrollador Full Stack con 5 años de experiencia construyendo, manteniendo y 
 
 Me especializo en comprender problemas técnicos, diseñar soluciones compatibles con la arquitectura existente y llevar las implementaciones desde el análisis hasta su puesta en producción.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaam-santiago-143a79221/)
-[![GitHub](https://img.shields.io/badge/GitHub-Balaam--cpu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balaam-cpu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-294866?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaam-santiago-143a79221/)
+[![GitHub](https://img.shields.io/badge/GitHub-Balaam--cpu-172B45?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balaam-cpu)
 
 </div>
 
@@ -25,7 +28,13 @@ Mi trabajo no se limita a implementar funcionalidades. También participo en el 
 
 He trabajado tanto con arquitecturas previamente establecidas como en la mejora y refactorización de aplicaciones existentes, buscando siempre soluciones que sean mantenibles, comprensibles y acordes con las necesidades del proyecto.
 
+---
+
 ## 💼 Experiencia que aporto
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏗️ Desarrollo y arquitectura de aplicaciones
 
@@ -34,12 +43,20 @@ He trabajado tanto con arquitecturas previamente establecidas como en la mejora 
 - Desarrollo de APIs REST, integración de servicios externos y construcción de componentes frontend reutilizables.
 - Refactorización de aplicaciones existentes para reducir duplicidad de código y mejorar su organización y mantenimiento.
 
+</td>
+<td width="50%" valign="top">
+
 ### 🔍 Análisis y resolución de problemas
 
 - Investigación y diagnóstico de incidencias en ambientes de desarrollo, QA y producción.
 - Elaboración de **spikes técnicos** para evaluar alternativas de implementación, identificar dependencias y proporcionar información técnica para la definición de historias de usuario.
 - Análisis de requerimientos y propuesta de soluciones considerando las restricciones de los sistemas existentes.
 - Colaboración con equipos multidisciplinarios para resolver problemas que involucran distintas aplicaciones o servicios.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔐 Seguridad, integraciones y operación
 
@@ -48,6 +65,9 @@ He trabajado tanto con arquitecturas previamente establecidas como en la mejora 
 - Diagnóstico de aplicaciones desplegadas en **Azure Kubernetes Service (AKS)** mediante análisis de logs.
 - Atención de vulnerabilidades y observaciones de calidad de código identificadas mediante herramientas como **SonarQube**.
 
+</td>
+<td width="50%" valign="top">
+
 ### 🚀 Entrega y colaboración técnica
 
 - Participación en procesos **CI/CD**, seguimiento de pipelines en Jenkins y despliegues en Azure.
@@ -55,9 +75,21 @@ He trabajado tanto con arquitecturas previamente establecidas como en la mejora 
 - Coordinación de dependencias técnicas, pruebas y liberaciones con equipos internos y externos.
 - Seguimiento de implementaciones hasta su liberación y estabilización en ambientes productivos.
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tecnologías y herramientas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,azure,git,github,jenkins,visualstudio,vscode,postman&perline=8&theme=dark" alt="Tecnologías y herramientas" />
+
+</div>
+
+<br/>
 
 | Área | Tecnologías |
 |---|---|
@@ -74,25 +106,78 @@ He trabajado tanto con arquitecturas previamente establecidas como en la mejora 
 
 No siempre se trata de escribir más código. Para mí, una buena implementación comienza por comprender el problema y el contexto en el que debe resolverse.
 
-**01. Entender el problema**
+<table>
+<tr>
+<td width="20%" align="center" valign="top">
+
+### `01`
+
+</td>
+<td valign="top">
+
+**Entender el problema**
 
 Analizar el requerimiento, identificar el comportamiento esperado y revisar las restricciones del sistema.
 
-**02. Investigar y evaluar**
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+### `02`
+
+</td>
+<td valign="top">
+
+**Investigar y evaluar**
 
 Explorar la arquitectura existente, revisar las dependencias y comparar alternativas antes de implementar.
 
-**03. Diseñar la solución**
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+### `03`
+
+</td>
+<td valign="top">
+
+**Diseñar la solución**
 
 Definir dónde corresponde cada responsabilidad, qué componentes deben modificarse y cómo reducir el impacto sobre otras funcionalidades.
 
-**04. Implementar y validar**
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+### `04`
+
+</td>
+<td valign="top">
+
+**Implementar y validar**
 
 Desarrollar la solución, verificar su comportamiento y atender posibles errores de integración.
 
-**05. Entregar y dar seguimiento**
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+### `05`
+
+</td>
+<td valign="top">
+
+**Entregar y dar seguimiento**
 
 Colaborar con los equipos involucrados durante las pruebas, liberación y estabilización de la implementación.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -114,7 +199,9 @@ Colaborar con los equipos involucrados durante las pruebas, liberación y estabi
 
 Me interesa compartir conocimientos, explorar soluciones técnicas y colaborar en proyectos donde el software resuelva problemas reales.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaam_Santiago-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaam-santiago-143a79221/)
-[![GitHub](https://img.shields.io/badge/GitHub-Balaam--cpu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Balaam-cpu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaam_Santiago-294866?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaam-santiago-143a79221/)
+[![GitHub](https://img.shields.io/badge/GitHub-Balaam--cpu-172B45?style=flat-square&logo=github&logoColor=white)](https://github.com/Balaam-cpu)
 
-</div> 
+<img width="100%" alt="Separador de pie de página" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:172B45,100:365575&height=100&section=footer" />
+
+</div>
