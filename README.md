@@ -103,7 +103,31 @@ He trabajado tanto con arquitecturas previamente establecidas como en la mejora 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,azure,git,github,jenkins,visualstudio,vscode,postman&perline=8&theme=dark" alt="Tecnologías y herramientas" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-17232D?style=for-the-badge&labelColor=17232D&color=344957" />
+<img src="https://img.shields.io/badge/.NET%20%2F%20.NET%20Core-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/Angular-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/Angular%20Material-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/PrimeNG-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/Bootstrap-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/TypeScript-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/JavaScript-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/jQuery-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/AJAX-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/SQL%20Server-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/Azure%20Pipelines-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/AKS-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/Azure%20Key%20Vault-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/Git-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/ADO.NET-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/Jenkins-17232D?style=for-the-badge&color=344957" />
+<img src="https://img.shields.io/badge/SonarQube-17232D?style=for-the-badge&color=344957" />
+
+</div>
 
 </div>
 
