@@ -15,9 +15,6 @@ Desarrollador Full Stack con 5 años de experiencia construyendo, manteniendo y 
 
 Me especializo en comprender problemas técnicos, diseñar soluciones compatibles con la arquitectura existente y llevar las implementaciones desde el análisis hasta su puesta en producción.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-1D2935?style=for-the-badge&logo=linkedin&logoColor=25D6A2)](https://www.linkedin.com/in/balaam-santiago-143a79221/)
-[![GitHub](https://img.shields.io/badge/GitHub-Balaam--cpu-1D2935?style=for-the-badge&logo=github&logoColor=25D6A2)](https://github.com/Balaam-cpu)
-
 <br/>
 
 <img src="https://img.shields.io/badge/FRONTEND-Angular%20%7C%20NgRx-1D2935?style=flat-square&labelColor=10161D&color=1D2935" />
@@ -227,8 +224,6 @@ Colaborar con los equipos involucrados durante las pruebas, liberación y estabi
 
 Me interesa compartir conocimientos, explorar soluciones técnicas y colaborar en proyectos donde el software resuelva problemas reales.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaam_Santiago-1D2935?style=flat-square&logo=linkedin&logoColor=25D6A2)](https://www.linkedin.com/in/balaam-santiago-143a79221/)
-[![GitHub](https://img.shields.io/badge/GitHub-Balaam--cpu-1D2935?style=flat-square&logo=github&logoColor=25D6A2)](https://github.com/Balaam-cpu)
 
 <br/>
 
